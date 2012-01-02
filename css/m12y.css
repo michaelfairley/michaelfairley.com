@@ -1,0 +1,83 @@
+/* A font by Jos Buivenga (exljbris) -> www.exljbris.com */
+@font-face {
+  font-family: 'DeliciousSmallCapsRegular';
+  src: url('delicious-smallcaps-webfont.eot');
+  src: url('delicious-smallcaps-webfont.eot?#iefix') format('embedded-opentype'),
+  url('delicious-smallcaps-webfont.woff') format('woff'),
+  url('delicious-smallcaps-webfont.ttf') format('truetype'),
+  url('delicious-smallcaps-webfont.svg#DeliciousSmallCapsRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GentiumBasicRegular';
+  src: url('GenBasR-webfont.eot');
+  src: url('GenBasR-webfont.eot?#iefix') format('embedded-opentype'),
+  url('GenBasR-webfont.woff') format('woff'),
+  url('GenBasR-webfont.ttf') format('truetype'),
+  url('GenBasR-webfont.svg#GentiumBasicRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GentiumBasicItalic';
+  src: url('GenBasI-webfont.eot');
+  src: url('GenBasI-webfont.eot?#iefix') format('embedded-opentype'),
+  url('GenBasI-webfont.woff') format('woff'),
+  url('GenBasI-webfont.ttf') format('truetype'),
+  url('GenBasI-webfont.svg#GentiumBasicItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GentiumBasicBold';
+  src: url('GenBasB-webfont.eot');
+  src: url('GenBasB-webfont.eot?#iefix') format('embedded-opentype'),
+  url('GenBasB-webfont.woff') format('woff'),
+  url('GenBasB-webfont.ttf') format('truetype'),
+  url('GenBasB-webfont.svg#GentiumBasicBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GentiumBasicBoldItalic';
+  src: url('GenBasBI-webfont.eot');
+  src: url('GenBasBI-webfont.eot?#iefix') format('embedded-opentype'),
+  url('GenBasBI-webfont.woff') format('woff'),
+  url('GenBasBI-webfont.ttf') format('truetype'),
+  url('GenBasBI-webfont.svg#GentiumBasicBoldItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "GentiumBasicRegular", "Sabon Lt Std", "Hoefler Text", "Palatino Linotype", "Book Antiqua", serif;
+  font-size: 18px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'DeliciousSmallCapsRegular', Arial, sans-serif;
+  margin: 0;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#container {
+  width: 800px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.date {
+  margin-top: 0;
+}

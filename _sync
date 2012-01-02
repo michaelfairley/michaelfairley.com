@@ -1,0 +1,1 @@
+rsync -avz --exclude README.md _site/ michael@m12y.com:~/m12y.com
