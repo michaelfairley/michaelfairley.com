@@ -13,7 +13,7 @@ A brief postmortem:
 I ended up super happy with all of my tooling choices: libgdx, Box2D, and Tiled among others. Everything more or less work as expected and was easy enough to learn (though I spent too much time learning on the spot), and ending up with an HTML/JS deliverable was nice. I also had a blast working with Java in IntelliJ all weekend.
 
 #### Friends
-Getting together with coworkers to hack near each other made the weekend much more enjoyable. The mutual energy kept us all focused on our games, but ping-pong and board game breaks provided much needed relaxation after hours of heads-down coding. Having people to bounce ideas off of also proved helpful when I got in a rut. And most importantly, I'll always chose a shared experience over one I have alone.
+Getting together with coworkers to hack near each other made the weekend much more enjoyable. The mutual energy kept us all focused on our games, but ping-pong and board game breaks provided much needed relaxation after hours of heads-down coding. Having people to bounce ideas off of also proved helpful when I got in a rut. And most importantly, I'll always choose a shared experience over one I have alone.
 
 #### Shipping
 I almost called it quits mid-Sunday, but I'm glad I followed through and ended up with something shippable. I feel like I'm in a really good place for future LDs.
