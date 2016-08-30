@@ -1,2 +1,2 @@
-permalink: /blog/:title
-highlighter: rouge
+permalink: /blog/:title/
+highlighter: pygments
