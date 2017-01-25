@@ -90,6 +90,11 @@ p.date {
   margin-bottom: 1em;
 }
 
+p.category-links {
+  margin-bottom: 1em;
+  margin-top: -0.5em;
+}
+
 p#header {
   margin: 1em 0;
 }
