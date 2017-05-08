@@ -63,6 +63,10 @@ code {
   white-space: pre-wrap;
 }
 
+ul {
+  margin-top: -0.7em;
+}
+
 .hll { background-color: #ffffcc }
 .c { color: #408080; font-style: italic } /* Comment */
 .err { border: 1px solid #FF0000 } /* Error */
