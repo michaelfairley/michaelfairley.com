@@ -6,6 +6,7 @@ title: Michael Fairley
 
 <ul>
   {% for post in site.posts %}
+  {% if post.published != false %}
   <li>
     {% if post.external_url %}
     <a href="{{ post.external_url }}">{{ post.title }}</a>
@@ -14,5 +15,6 @@ title: Michael Fairley
     {% endif %}
   ({{ post.date | date_to_string }})
   </li>
+  {% endif %}
   {% endfor %}
 </ul>
