@@ -10,7 +10,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h2 {
-  font-size: 38px;
+  font-size: 36px;
 }
 
 h3 {
@@ -54,7 +54,8 @@ p#header {
 }
 
 #container {
-  width: 800px;
+  width: 100%;
+  max-width: 800px;
   margin: 0 auto;
   padding-bottom: 50px;
 }
@@ -133,3 +134,19 @@ ul {
 .vg { color: #19177C } /* Name.Variable.Global */
 .vi { color: #19177C } /* Name.Variable.Instance */
 .il { color: #666666 } /* Literal.Number.Integer.Long */
+
+.mmr-icon {
+  max-width: 1.5em;
+  max-height: 1.5em;
+  vertical-align: middle;
+}
+
+.mmr-heading {
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.mmr-creator {
+  font-size: 16px;
+  color: #555;
+}
