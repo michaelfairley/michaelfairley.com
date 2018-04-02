@@ -30,7 +30,7 @@ Opus Magnum is easily the most accessible and polished of their games, and is so
 
 <img src="/images/icons/book.svg" class="mmr-icon" />
 <span class="mmr-heading">[Kindred](https://smile.amazon.com/Kindred-Octavia-Butler-ebook/dp/B009U9S540?tag=yelriaf-20)</span> &nbsp;<span class="mmr-creator">Octavia Butler</span>  
-A black woman living in Los Angeles in the 1970s finds herself transported through time and space back to Antebellum Maryland, circa 1815, and has to manage living in a hostile and complicated place.  
+A black woman living in Los Angeles in the 1970s finds herself transported through time and space back to Antebellum Maryland, circa 1815, and has to adapt to live in a complicated and hostile place.  
 <small>(H/t David Peter for the recommendation.)</small>
 
 <img src="/images/icons/music.svg" class="mmr-icon" />
@@ -41,6 +41,11 @@ If you're normally turned off of metal because of all the yelling or whatever, y
 <img src="/images/icons/podcast.svg" class="mmr-icon" />
 <span class="mmr-heading">[Chris Hecker - Part 2](https://www.idlethumbs.net/designernotes/episodes/chris-hecker-part-2)</span> &nbsp;<span class="mmr-creator">Designer Notes</span>  
 Chris Hecker and Soren Johnson have a fascinating chat about a lot of little design details in [Spy Party](http://www.spyparty.com/), which is IMO one of the most well designed competetive games around.
+
+<img src="/images/icons/dekudeals.svg" class="mmr-icon" />
+<span class="mmr-heading">[Deku Deals](https://www.dekudeals.com/)</span> &nbsp;<span class="mmr-creator">Michael Fairley</span>  
+I launched a new website at the beginning of March!
+It helps you find the best discounts on Nintendo Switch games and accessories.
 
 
 [^percentage]: Many of these statistics are all their all-time best levels on an absolute basis, while others are "only" at their all-time best per capita.
