@@ -1,8 +1,8 @@
 ---
 title: Michael's Monthly Recommendations (February 2018)
 layout: post
-# category: mmr
-# category_title: 2/2018
+category: mmr
+category_title: Feburary 2018
 description: "The best things I've read/watched/played/listened to/used in the past month."
 ---
 
