@@ -18,7 +18,7 @@ I'm constantly reading, watching, listening to, playing, and using a million dif
 Bill Gates has called this his "new favorite book of all time", which oversells things a bit, but was enough to get me to immediately pick it up.
 
 Part II, which makes up the bulk of this book (and is by far the strongest of the 3 parts), is a lengthy look at how almost every modern measure of human well-being (e.g. lifespan, income, education, women's rights, democracy) are at their all time highs (or have been trending upwards for decades), and human suffering (child mortality, extreme poverty, war, murder, domestic and sexual violence, slavery) are at their all time lows[^percentage].
-(He does address a few areas where we're not doing so hot right now, like caring for the environment, the global rise in authoritarianism and nationalism, and slow recent gains to wealthy countries' middle classes, so it's all not all warm fuzzy feelings.)
+(He does address a few areas where we're not doing so hot right now, like caring for the environment, the global rise in authoritarianism and nationalism, and slow recent gains to wealthy countries' middle classes, so it's not all warm fuzzy feelings.)
 
 I highly recommend picking this up, breezing through Part I (an introduction advocating that the principles of the 18th Englightment are the root of all modern progress), soaking up Part II as a way to calibrate yourself to the current state of human progress, and then stopping before Part III (which is mostly a wordy-yet-poorly-argued rant about how humanities departments and religion are the ultimate enemies of progress).
 
