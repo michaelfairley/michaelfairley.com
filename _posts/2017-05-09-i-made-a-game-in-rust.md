@@ -3,7 +3,7 @@ title: I Made a Game in Rust
 layout: post
 ---
 
-Last week, I released [A Snake's Tale](https://m12y.com/a-snakes-tale/) on [iOS](https://itunes.apple.com/us/app/a-snakes-tale/id1211845149?mt=8&at=1001lnX5), [Android](https://play.google.com/store/apps/details?id=com.m12y.asnakestale), [Windows, Mac, and Linux](https://m12y.itch.io/a-snakes-tale).
+Last week, I released [A Snake's Tale](https://m12y.com/a-snakes-tale/) on [iOS](https://itunes.apple.com/us/app/a-snakes-tale/id1211845149?mt=8&at=1001lnX5), [Android](https://play.google.com/store/apps/details?id=com.m12y.asnakestale), [Windows, Mac, and Linux](https://store.steampowered.com/app/654810/A_Snakes_Tale/).
 
 A Snake's Tale was programmed entirely in [Rust](https://www.rust-lang.org/), and to the best of my knowledge, it is the first commercial game made in Rust to be released.
 It's not the largest or most technically demanding of games, but I'm proud to have an existence proof for the viability of gamedev in Rust.
