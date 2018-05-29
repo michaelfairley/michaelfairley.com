@@ -14,7 +14,7 @@ I'm constantly reading, watching, listening to, playing, and using a million dif
 -----
 
 <img src="/images/icons/book.svg" class="mmr-icon" />
-<span class="mmr-heading">[Enlightenment Now](https://smile.amazon.com/Enlightenment-Now-Science-Humanism-Progress-ebook/dp/B073TJBYTB?tag=yelriaf-20)</span> &nbsp;<span class="mmr-creator">Steven Pinker</span>  
+<span class="mmr-heading">[Enlightenment Now](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress-ebook/dp/B073TJBYTB?tag=yelriaf-20)</span> &nbsp;<span class="mmr-creator">Steven Pinker</span>  
 Bill Gates has called this his "new favorite book of all time", which oversells things a bit, but was enough to get me to immediately pick it up.
 
 Part II, which makes up the bulk of this book (and is by far the strongest of the 3 parts), is a lengthy look at how almost every modern measure of human well-being (e.g. lifespan, income, education, women's rights, democracy) are at their all time highs (or have been trending upwards for decades), and human suffering (child mortality, extreme poverty, war, murder, domestic and sexual violence, slavery) are at their all time lows[^percentage].
@@ -29,7 +29,7 @@ Zachtronics keeps doing what they do best: open-ended engineering puzzle games.
 Opus Magnum is easily the most accessible and polished of their games, and is something I'd recommend to anyone who enjoys solving (often difficult) engineering problems.
 
 <img src="/images/icons/book.svg" class="mmr-icon" />
-<span class="mmr-heading">[Kindred](https://smile.amazon.com/Kindred-Octavia-Butler-ebook/dp/B009U9S540?tag=yelriaf-20)</span> &nbsp;<span class="mmr-creator">Octavia Butler</span>  
+<span class="mmr-heading">[Kindred](https://www.amazon.com/Kindred-Octavia-Butler-ebook/dp/B009U9S540?tag=yelriaf-20)</span> &nbsp;<span class="mmr-creator">Octavia Butler</span>  
 A black woman living in Los Angeles in the 1970s finds herself transported through time and space back to Antebellum Maryland, circa 1815, and has to adapt to live in a complicated and hostile place.  
 <small>(H/t David Peter for the recommendation.)</small>
 
