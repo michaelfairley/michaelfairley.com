@@ -50,7 +50,7 @@ Dark and mysterious puzzle game that's worth 20 minutes of your time.
 Seminars About Long-term Thinking
 </span>  
 Super interesting talk about some technology in development that provides MRI-like imaging, but cheap and portable.
-The talk explores some of the ramifications of this technology could have on human-computer interaction, since cheap, real-time brain imaging would allow for near telepathic interaction with computers.
+The talk explores some of the ramifications this technology could have on human-computer interaction, since cheap, real-time brain imaging would allow for near telepathic interaction with computers.
 
 
 <img src="/images/icons/book.svg" class="mmr-icon" />
@@ -60,7 +60,7 @@ The talk explores some of the ramifications of this technology could have on hum
 Hans Rosling
 </span>  
 I basically rescind my recommendation of _Enlightenment Now_ from [March](/blog/michaels-monthly-recommendations-march-2018/) in favor of this book.
-It has a very similar theme ("Humanity has progressed a ton in the last 50 years! _Especially_ outside of the richest countries."), but with half as many words, much less condescension, and a stronger focus on how the advances affects the daily lives of average people (e.g. living conditions, education, health care).
+It has a very similar theme ("Humanity has progressed a ton in the last 50 years! _Especially_ outside of the richest countries."), but with half as many words, much less condescension, and a stronger focus on how the advances affect the daily lives of average people (e.g. living conditions, education, health care).
 
 <img src="/images/icons/game.svg" class="mmr-icon" />
 <span class="mmr-heading">
