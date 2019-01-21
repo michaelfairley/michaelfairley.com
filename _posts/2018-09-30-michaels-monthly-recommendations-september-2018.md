@@ -54,8 +54,8 @@ This season is looking at a bunch of aspects of the justice system in Cleveland,
 </span>&nbsp;<span class="mmr-creator">
 Pavel Tsatsouline
 </span>  
-I've been doing the workout program in this book as my main form of exercise for the past couple of months, and I'm impressed with the results I'm getting for how little time I'm putting into it (less than 30 minutes per day, in the convenience of my own living room).
-
+I've been doing the workout program in this book as my main form of exercise for the past couple of months, and I'm impressed with the results I'm getting for how little time I'm putting into it (less than 30 minutes per day, in the convenience of my own living room).  
+(Update in January 2019: [This kettlebell](http://linksynergy.walmart.com/deeplink?id=NSdbl*mPOl8&mid=2149&murl=https%3A%2F%2Fwww.walmart.com%2Fip%2FDiamond-Pro-Kettle-Bell-35-lb-16kg-Yellow%2F47930406) is way nicer but still in the same price range. It's been my go-to for the past few months.)
 
 
 
