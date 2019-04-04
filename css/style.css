@@ -35,6 +35,14 @@ a {
 p {
   margin: 1em 0;
 }
+p + ul {
+  margin-top: -0.5em;
+}
+
+ul {
+  padding-left: 20px;
+}
+
 
 p.date {
   margin-bottom: 2em;
@@ -144,9 +152,33 @@ ul {
 .mmr-heading {
   font-weight: bold;
   font-size: 26px;
+  line-height: 2em;
 }
 
 .mmr-creator {
   font-size: 16px;
   color: #555;
+}
+
+blockquote {
+  border-left: 3px solid #ccc;
+  padding-left: 10px;
+  margin: 10px;
+}
+
+blockquote p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p + blockquote {
+  margin-top: -1em;
+}
+blockquote + p {
+  margin-top: 0.5em;
+}
+
+
+.by-the-numbers {
+  font-size: 130%;
 }
