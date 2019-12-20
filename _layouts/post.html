@@ -21,9 +21,19 @@ layout: default
 {% endfor %}
 {% endfor %}
 {% endcapture %}
+{% unless page.category_at_end %}
 <p class="category-links">
   {{ category_links | strip_newlines }}
 </p>
 {% endunless %}
+{% endunless %}
 
 {{ content }}
+
+{% unless page.categories == empty %}
+{% if page.category_at_end %}
+<p class="category-links-bottom">
+  {{ category_links | strip_newlines }}
+</p>
+{% endif %}
+{% endunless %}
